@@ -2,6 +2,11 @@
 
 A list of must have Hubot scripts.
 
+## Table of Contents
+- [Awesome Hubot](#awesome-hubot)
+    - [Adapters](#adapters)
+    - [Miscellaneous](#miscellaneous)
+
 ## Adapters
 
 * [Slack](https://github.com/slackhq/hubot-slack)
