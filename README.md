@@ -6,6 +6,7 @@ A list of must have Hubot scripts.
 - [Awesome Hubot](#awesome-hubot)
     - [Adapters](#adapters)
     - [Miscellaneous](#miscellaneous)
+    - [Productivity](#productivity)
 
 ## Adapters
 
@@ -28,3 +29,6 @@ A list of must have Hubot scripts.
 * [Control](https://github.com/spajus/hubot-control) - Control Hubot via web interface.
 * [Cron](https://github.com/miyagawa/hubot-cron) - Crontab like scheduling messages for Hubot.
 * [Markov](https://github.com/smashwilson/hubot-markov) - Generates a markov model based on everything that your Hubot sees in your chat.
+
+## Productivity
+* [Google Translate](https://github.com/hubot-scripts/hubot-google-translate) - Allows Hubot to know many languages using Google Translate.
