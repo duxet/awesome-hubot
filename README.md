@@ -26,6 +26,7 @@ A list of must have Hubot scripts.
 
 ## Miscellaneous
 
+* [Auth](https://github.com/hubot-scripts/hubot-auth) - Assign roles to users and restrict command access in other scripts.
 * [Control](https://github.com/spajus/hubot-control) - Control Hubot via web interface.
 * [Cron](https://github.com/miyagawa/hubot-cron) - Crontab like scheduling messages for Hubot.
 * [Markov](https://github.com/smashwilson/hubot-markov) - Generates a markov model based on everything that your Hubot sees in your chat.
