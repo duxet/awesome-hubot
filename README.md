@@ -7,6 +7,7 @@ A list of must have Hubot scripts.
     - [Adapters](#adapters)
     - [Miscellaneous](#miscellaneous)
     - [Productivity](#productivity)
+    - [Reports](#reports)
 
 ## Adapters
 
@@ -33,3 +34,11 @@ A list of must have Hubot scripts.
 
 ## Productivity
 * [Google Translate](https://github.com/hubot-scripts/hubot-google-translate) - Allows Hubot to know many languages using Google Translate.
+
+## Reports
+* [Facebook Insights](https://github.com/Godoy/hubot-facebook-insights) - Allows Hubot to get some facebook insights.
+* [Google Analytics](https://github.com/PlanBCom/hubot-analytics) - A hubot script to get google analytics reports.
+* [New Relic](https://github.com/statianzo/hubot-newrelic2) - New Relic stats from Hubot.
+
+
+
