@@ -1,13 +1,13 @@
 # Awesome Hubot [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of must have Hubot scripts.
+A list of must-have [Hubot](https://hubot.github.com) scripts.
 
 ## Table of Contents
 - [Awesome Hubot](#awesome-hubot)
-    - [Adapters](#adapters)
-    - [Miscellaneous](#miscellaneous)
-    - [Productivity](#productivity)
-    - [Reports](#reports)
+  - [Adapters](#adapters)
+  - [Productivity](#productivity)
+  - [Reports](#reports)
+  - [Miscellaneous](#miscellaneous)
 
 ## Adapters
 
@@ -25,13 +25,6 @@ A list of must have Hubot scripts.
 * [Telegram](https://github.com/lukefx/hubot-telegram)
 * [Let's Chat](https://github.com/sdelements/hubot-lets-chat)
 
-## Miscellaneous
-
-* [Auth](https://github.com/hubot-scripts/hubot-auth) - Assign roles to users and restrict command access in other scripts.
-* [Control](https://github.com/spajus/hubot-control) - Control Hubot via web interface.
-* [Cron](https://github.com/miyagawa/hubot-cron) - Crontab like scheduling messages for Hubot.
-* [Markov](https://github.com/smashwilson/hubot-markov) - Generates a markov model based on everything that your Hubot sees in your chat.
-
 ## Productivity
 * [Google Translate](https://github.com/hubot-scripts/hubot-google-translate) - Allows Hubot to know many languages using Google Translate.
 
@@ -42,3 +35,8 @@ A list of must have Hubot scripts.
 
 
 
+## Miscellaneous
+* [Auth](https://github.com/hubot-scripts/hubot-auth) - Assign roles to users and restrict command access in other scripts.
+* [Control](https://github.com/spajus/hubot-control) - Control Hubot via web interface.
+* [Cron](https://github.com/miyagawa/hubot-cron) - Crontab like scheduling messages for Hubot.
+* [Markov](https://github.com/smashwilson/hubot-markov) - Generates a markov model based on everything that your Hubot sees in your chat.
