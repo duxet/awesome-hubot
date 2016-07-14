@@ -7,6 +7,7 @@ A list of must-have [Hubot](https://hubot.github.com) scripts.
   - [Adapters](#adapters)
   - [Productivity](#productivity)
   - [Reports](#reports)
+  - [Games](#games)
   - [Miscellaneous](#miscellaneous)
 
 ## Adapters
@@ -34,6 +35,8 @@ A list of must-have [Hubot](https://hubot.github.com) scripts.
 * [New Relic](https://github.com/statianzo/hubot-newrelic2) - New Relic stats from Hubot.
 
 
+## Games
+* [Ingress](https://github.com/hubot-scripts/hubot-ingress) - Show off your Ingress badges (plus some other utils).
 
 ## Miscellaneous
 * [Auth](https://github.com/hubot-scripts/hubot-auth) - Assign roles to users and restrict command access in other scripts.
