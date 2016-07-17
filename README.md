@@ -7,6 +7,7 @@ A list of must-have [Hubot](https://hubot.github.com) scripts.
   - [Adapters](#adapters)
   - [Productivity](#productivity)
   - [Reports](#reports)
+  - [Utility](#utility)
   - [Games](#games)
   - [Miscellaneous](#miscellaneous)
 
@@ -34,6 +35,8 @@ A list of must-have [Hubot](https://hubot.github.com) scripts.
 * [Google Analytics](https://github.com/PlanBCom/hubot-analytics) - A hubot script to get google analytics reports.
 * [New Relic](https://github.com/statianzo/hubot-newrelic2) - New Relic stats from Hubot.
 
+## Utility
+* [Factoids](https://github.com/therealklanni/hubot-factoids) - Give hubot factoids support similar to oftn-bot.
 
 ## Games
 * [Ingress](https://github.com/hubot-scripts/hubot-ingress) - Show off your Ingress badges (plus some other utils).
