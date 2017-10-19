@@ -46,3 +46,4 @@ A list of must-have [Hubot](https://hubot.github.com) scripts.
 * [Control](https://github.com/spajus/hubot-control) - Control Hubot via web interface.
 * [Cron](https://github.com/miyagawa/hubot-cron) - Crontab like scheduling messages for Hubot.
 * [Markov](https://github.com/smashwilson/hubot-markov) - Generates a markov model based on everything that your Hubot sees in your chat.
+* [Hubot Tell a Joke](https://github.com/sriharshakappala/hubot-tell-a-joke) - A hubot script that tells a random Chuck Norris joke :)
