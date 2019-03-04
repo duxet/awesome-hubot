@@ -26,6 +26,7 @@ A list of must-have [Hubot](https://hubot.github.com) scripts.
 * [Chatwork](https://github.com/akiomik/hubot-chatwork)
 * [Telegram](https://github.com/lukefx/hubot-telegram)
 * [Let's Chat](https://github.com/sdelements/hubot-lets-chat)
+* [Dialog](https://github.com/dialogs/dialog-hubot-adapter)
 
 ## Productivity
 * [Google Translate](https://github.com/hubot-scripts/hubot-google-translate) - Allows Hubot to know many languages using Google Translate.
